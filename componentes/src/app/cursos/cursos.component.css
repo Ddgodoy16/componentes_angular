@@ -1,0 +1,17 @@
+.curso-titulo {
+    font-size: 24px; 
+     text-align: center;
+  }
+  
+  .curso-descripcion {
+    font-size: 16px; 
+  
+    text-align: center; 
+  }
+  
+  .curso-duracion {
+    font-size: 14px; 
+    font-weight: bold; 
+ 
+    text-align: center; 
+  }
